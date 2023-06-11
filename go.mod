@@ -1,4 +1,4 @@
-module pass-check
+module github.com/jackfr0st13/pass-check
 
 go 1.17
 
